@@ -1,0 +1,15 @@
+Exercício 1 
+
+A = 
+B = 
+R = 
+Q = 
+
+
+1. Aceite a inserção de um número e armazene na variável A
+2. Aceite a inserção de um número e armazene na variável B
+3. Atribua 0 para Q e o valor da variável A em R
+4. Se B for maior que R, o programa imprime Q e R e para
+5. Senão, subtraia B de R e o resultado atribua em R
+6. Some 1 a Q
+7. Volte ao passo 6

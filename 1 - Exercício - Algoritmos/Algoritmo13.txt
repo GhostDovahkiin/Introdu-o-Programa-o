@@ -1,0 +1,6 @@
+1 - Atribua um numéro e armazene na variável A
+2 - Atribua um numéro e armazene na variável B
+3 - Se A>B divida A pela variável B, senão pule para a linha 4
+ 3.1 - Se houver resto, pare e imprima "Não são Multiplos", senão imprima "São Multiplos"
+4 - Se B>A divida B pela variável A
+ 4.1 - Se houver resto, pare e imprima "Não são Multiplos", senão imprima "São Multiplos"

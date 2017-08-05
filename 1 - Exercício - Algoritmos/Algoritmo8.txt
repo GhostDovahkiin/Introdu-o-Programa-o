@@ -1,0 +1,9 @@
+1 - Receba a idade em dias e armazene na variável Dias
+2 - Divida inicialmente Dias por 365, e seu resultado armazene na variável Anos
+2.1 Seu resto, divida por 30 e armazene na variável Meses
+3 - Com o resto da divisão do passo 2, aloque na variável Dias
+4 - Imprima Dias, Meses e Anos
+
+Dias = 
+Meses = 
+Anos = 

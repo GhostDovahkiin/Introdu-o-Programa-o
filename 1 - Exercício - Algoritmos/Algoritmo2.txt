@@ -1,0 +1,13 @@
+A = 
+B = 
+C = 
+
+
+
+1 - Chame a variável A e atribua um valor a ela.
+2 - Chame a variável B e inicialize com 1.
+3 - Multiplique B por B, e atribua o resultado em C.
+4 - Se C for menor que A, adicione 1 a B e volte ao passo 3
+5 - Senão, imprima B e pare.
+
+

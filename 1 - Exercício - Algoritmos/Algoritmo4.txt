@@ -1,0 +1,12 @@
+A = 
+B = 
+C = 
+
+
+
+1. Chame a variável A, atribua um valor e armazene 
+2. Chame a variável B e atribua o valor de 0   
+3. Faça a soma de B com o valor de "A" e seus algarismos anteriores, sendo eles maiores que 0, e alocando o resultado em B.
+4 - Imprima B.
+
+

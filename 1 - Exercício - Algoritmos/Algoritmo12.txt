@@ -1,0 +1,18 @@
+1 - Atribua um valor >=10 e armazene em A
+
+2 - Atribua um valor >=10 e armazene em B.
+
+3 - Atribua um valor >=10 e armazene em C.
+
+4 - Some A, B E C e guarde o resultado em Res.
+5 - Divida Res por 3, e armazene o resultado em Res. 
+6 - Se res for maior ou igual a 6, imprima Res e "Aprovado!"
+6.1 - Senão, Imprima Res e "Reprovado!"
+7 - Pare.
+
+
+
+A(Nota 1) = 
+B(Nota 2) =
+C(Nota 3) = 
+Res = 

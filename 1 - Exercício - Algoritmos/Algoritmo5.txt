@@ -1,0 +1,14 @@
+1 - Atribua um número inteiro e aloque em A
+2 - Atribua um número inteiro e aloque em B
+3 - Atribua um número inteiro e aloque em C
+4 - Se A for maior que B e C, imprima A e pare. Se não, vá a linha 5
+5 - Se B for maior que A e C, imprima B e pare. Se não, passe para o passo 6
+6 - Se C for maior que A e B, imprima C e pare
+
+
+A = 
+B = 
+C =
+
+
+ 

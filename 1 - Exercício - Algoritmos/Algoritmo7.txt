@@ -1,0 +1,16 @@
+1 - Chame a variavel anos, atribua um valor e armazene.
+2 - Chame a variavel meses, atribua um valor e armazene.
+3 - Chame a variavel dias, atribua seu valor e armazene.
+4 - Multiplique anos por 365, e seu resultado atribua em dias.
+5 - Multiplique Meses por 30, e seu resultado atribua em dias.
+6 - Imprima a variável dias
+
+
+anos = 
+meses = 
+dias =
+
+
+
+
+ 

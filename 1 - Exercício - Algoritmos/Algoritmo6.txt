@@ -1,0 +1,14 @@
+1 - Chame A Variável A atribua um valor inteiro
+2 - Divida A por 2, e o resultado armazene em A
+3 - Subentenda que 1 é sim, e 0 é não.
+4 - Se A for menor que 0, atribua 1 a Negativo. 
+ 4.1 - Senão, atribua 1 a Positivo.
+5 - Verifique o resultado da divisão, se houve resto atribua 1 a Impar
+ 5.1 - Senão, Atribua 1 a Par
+6 - Imprima todas as variáveis iguais a 1 e pare.
+
+A = 
+Negativo = 
+Positivo = 
+Par = 
+Impar = 

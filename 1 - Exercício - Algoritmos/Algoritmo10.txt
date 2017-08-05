@@ -1,0 +1,11 @@
+1 - Atribua o tempo em segundos e armazene em A
+2 - Divida A por 000 e seu resultado armazene na variável Horas
+3 - Com o resto, divida por 00 e armazene na variável Minutos
+4 - O que restar do passo 3, armazene em Segundos
+5 - Imprima Horas, Minutos e Segundos
+
+
+A = 
+Horas = 
+Minutos
+Segundos = 

@@ -1,0 +1,15 @@
+1 - Atribua um valor qualquer a variável A
+2 - Inicie B com o valor de 1
+3 - Multiplique B em B e armazene o resultado em C
+4 - Se C for menor que A, prossiga ao passo 6
+5 - Se C for igual a A, imprima a variável B
+6 - Adicione mais 1 em B
+7 - Volte a linha 3
+
+
+
+
+
+A = 
+B(Cont) =
+c(Res) = 

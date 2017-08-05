@@ -1,0 +1,18 @@
+1 - Receba a Hora inicial e atribua a Hi,Hora final atribua a Hf, Minuto inicial atribua a Mi, Minuto final a tribua a Mi.
+2 - Se hi<hf, vá para 2.1, senão vá para 2.2
+ 2.1 - Atribua hf-hi á váriavel Horas, vá para 3
+ 2.2 = Atribua 24-hi a variável horas e some hf à variável horas; vá para 3
+3 -  Se mf>mi, vá para 3.1, senão vá para 3.2
+ 3.1 atribua mf-mi á variavel minutos, e va para 3.3
+ 3.2 - atribua mf á minutos e some (60-mi) à minutos; Vá ára o passo 3.3
+ 3.3 - Some o quociente de minutos/60 à variável Horas, e atribua o resto 
+à minutos, vá para 4
+4 - Retorne horas e minutos
+
+Hi = 
+Hf = 
+Mi = 
+Mf = 
+Horas
+Minutos = 
+

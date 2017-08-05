@@ -1,0 +1,6 @@
+1 - Receba um número e atribua em A
+2 - Divida A por 100 e atribua o resultado a variável "Cem", e o resto em A
+3 - Divida A por 50 e atribua o resultado a variável "Cinquenta", e o resto em A
+4 - Divida A por 10 e atribua o resultado a variável "Dez", e o resto em A
+5 - Atribua o valor de A em Um
+6 - Retorne os valores Cem, Cinquenta, Dez e Um

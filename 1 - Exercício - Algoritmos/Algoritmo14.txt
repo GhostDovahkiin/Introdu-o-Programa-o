@@ -1,0 +1,31 @@
+
+1 - Atribua um valor maior ou igual a 5 e armazene em Idade
+
+2 - Se "Idade" for maior ou igual a 5 e menor ou igual a 7, pare e imprima "Você foi classificado(a) para a categoria Infantil A"
+
+ 
+ 2.1 - Se não vá a linha 3
+
+
+3 - Se "Idade" for maior ou igual a 8 e menor ou igual a 10, pare e imprima "Você foi classificado(a) para a categoria Infantil B."
+
+ 
+ 3.1 -  Se não vá a linha 4
+
+
+4 - Se "Idade" for maior ou igual a 11 e menor ou igual a 13, pare e imprima "Você foi classificado(a) para a categoria Juvenil A".
+
+
+ 4.1 -  Se não vá a linha 5
+
+
+5 - Se "Idade" for maior ou igual a 14 e menor ou igual a 17, pare e imprima "Você foi classificado(a) para a categoria Juvenil B".
+
+ 
+ 5.1 - Se não vá a linha 6
+
+
+6 - Se "Idade" for maior ou igual a 18, pare e imprima "Você foi classificado(a) para a categoria Adulto"
+
+
+Idade = 

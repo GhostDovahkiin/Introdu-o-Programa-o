@@ -1,0 +1,11 @@
+1 - Atribua um valor em A e armazene.
+2 - Multiplique A por 0,28 e armazene o resultado em B
+3 - Multiplique A por 0,45 e armazene o resultado em C
+4 - Some A, B e C e seu resultado armazene em Res
+5 - Imprima Res
+
+
+A = 
+B = 
+C = 
+Res = 

@@ -1,0 +1,15 @@
+1 - Atribua um valor >=10 a nota1.
+2 - Atribua um valor >=10 a nota2.
+3 - Atribua um valor >=10 a nota3.
+4 - Saiba que peso1 é 2, peso2 é 3 e peso3 é 5.
+5 - Multiplique nota1 com peso1, nota2 com peso2 e nota3 com peso3, some os resultados e armazene em Res.
+6 - Some peso1, peso 2 e peso3, seu resultado divida por Res, e armazene novamente em Res.
+7 - Imprima Res.
+
+Nota1 = 
+Nota2 = 
+Nota3 = 
+peso1 = 2
+peso2 = 3
+peso3 = 4
+Res = 
