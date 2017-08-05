@@ -6,5 +6,5 @@ A = A%50
 Dez = A/10
 A = A%10
 Um = A
-print("Notas de cem: %s. \nNotas de cinquenta: %s. \nNotas de dez: %s. \nNotas de um: %s." %(Cem, Cinquenta, Dez, Um))
+print("Notas de cem: %2.1s. \nNotas de cinquenta: %2.1s. \nNotas de dez: %2.1s. \nNotas de um: %2.1s." %(Cem, Cinquenta, Dez, Um))
 
