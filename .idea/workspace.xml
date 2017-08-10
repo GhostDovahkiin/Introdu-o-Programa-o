@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f3d46fc-f144-416d-880d-211bc6486e30" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Introducao-a-Programacao.iml" afterPath="$PROJECT_DIR$/.idea/Introducao-a-Programacao.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4 - Exercício - Aula 4 (Slide 19, 21 e 23)/Slide 23/4.9.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,11 +14,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="4.8.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="4.8.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/4 - Exercício - Aula 4 (Slide 19, 21 e 23)/Slide 23/4.8.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
               <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="4.9.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/4 - Exercício - Aula 4 (Slide 19, 21 e 23)/Slide 23/4.9.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -49,6 +58,7 @@
         <option value="$PROJECT_DIR$/4 - Exercício - Aula 4 (Slide 19, 21 e 23)/Slide 23/4.7.py" />
         <option value="$PROJECT_DIR$/4 - Exercício - Aula 4 (Slide 19, 21 e 23)/Slide 23/4.8.py" />
         <option value="$PROJECT_DIR$/4 - Exercício - Aula 4 (Slide 19, 21 e 23)/Slide 23/4.8.1.py" />
+        <option value="$PROJECT_DIR$/4 - Exercício - Aula 4 (Slide 19, 21 e 23)/Slide 23/4.9.py" />
       </list>
     </option>
   </component>
@@ -117,24 +127,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.4.8">
-    <configuration name="4.3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/bin/python2.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4 - Exercício - Aula 4 (Slide 19, 21 e 23)/Slide 23" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Introducao-a-Programacao" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4 - Exercício - Aula 4 (Slide 19, 21 e 23)/Slide 23/4.3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.4.9">
     <configuration name="4.4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -203,6 +196,23 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="4.9" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4 - Exercício - Aula 4 (Slide 19, 21 e 23)/Slide 23" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Introducao-a-Programacao" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4 - Exercício - Aula 4 (Slide 19, 21 e 23)/Slide 23/4.9.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration default="true" type="Python.Ipnb" factoryName="Jupyter Notebook">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -237,19 +247,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.4.3" />
-      <item index="1" class="java.lang.String" itemvalue="Python.4.4" />
-      <item index="2" class="java.lang.String" itemvalue="Python.4.7" />
-      <item index="3" class="java.lang.String" itemvalue="Python.4.8" />
-      <item index="4" class="java.lang.String" itemvalue="Python.4.8.1" />
+      <item index="0" class="java.lang.String" itemvalue="Python.4.4" />
+      <item index="1" class="java.lang.String" itemvalue="Python.4.7" />
+      <item index="2" class="java.lang.String" itemvalue="Python.4.8" />
+      <item index="3" class="java.lang.String" itemvalue="Python.4.8.1" />
+      <item index="4" class="java.lang.String" itemvalue="Python.4.9" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.4.8" />
-        <item index="1" class="java.lang.String" itemvalue="Python.4.8.1" />
-        <item index="2" class="java.lang.String" itemvalue="Python.4.7" />
-        <item index="3" class="java.lang.String" itemvalue="Python.4.4" />
-        <item index="4" class="java.lang.String" itemvalue="Python.4.3" />
+        <item index="0" class="java.lang.String" itemvalue="Python.4.9" />
+        <item index="1" class="java.lang.String" itemvalue="Python.4.8" />
+        <item index="2" class="java.lang.String" itemvalue="Python.4.8.1" />
+        <item index="3" class="java.lang.String" itemvalue="Python.4.7" />
+        <item index="4" class="java.lang.String" itemvalue="Python.4.4" />
       </list>
     </recent_temporary>
   </component>
@@ -375,6 +385,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4 - Exercício - Aula 4 (Slide 19, 21 e 23)/Slide 23/4.9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
