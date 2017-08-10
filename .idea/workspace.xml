@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f3d46fc-f144-416d-880d-211bc6486e30" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4 - Exercício - Aula 4 (Slide 19, 21 e 23)/Slide 23/4.9.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="9f3d46fc-f144-416d-880d-211bc6486e30" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,11 +21,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="4.9.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="4.9.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/4 - Exercício - Aula 4 (Slide 19, 21 e 23)/Slide 23/4.9.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
               <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="4.10.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/4 - Exercício - Aula 4 (Slide 19, 21 e 23)/Slide 23/4.10.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-72">
+              <caret line="2" column="60" lean-forward="false" selection-start-line="2" selection-start-column="60" selection-end-line="2" selection-end-column="60" />
               <folding />
             </state>
           </provider>
@@ -59,6 +66,7 @@
         <option value="$PROJECT_DIR$/4 - Exercício - Aula 4 (Slide 19, 21 e 23)/Slide 23/4.8.py" />
         <option value="$PROJECT_DIR$/4 - Exercício - Aula 4 (Slide 19, 21 e 23)/Slide 23/4.8.1.py" />
         <option value="$PROJECT_DIR$/4 - Exercício - Aula 4 (Slide 19, 21 e 23)/Slide 23/4.9.py" />
+        <option value="$PROJECT_DIR$/4 - Exercício - Aula 4 (Slide 19, 21 e 23)/Slide 23/4.10.py" />
       </list>
     </option>
   </component>
@@ -127,8 +135,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.4.9">
-    <configuration name="4.4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.4.10">
+    <configuration name="4.10" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -140,7 +148,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Introducao-a-Programacao" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4 - Exercício - Aula 4 (Slide 19, 21 e 23)/Slide 23/4.4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4 - Exercício - Aula 4 (Slide 19, 21 e 23)/Slide 23/4.10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -247,19 +255,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.4.4" />
-      <item index="1" class="java.lang.String" itemvalue="Python.4.7" />
-      <item index="2" class="java.lang.String" itemvalue="Python.4.8" />
-      <item index="3" class="java.lang.String" itemvalue="Python.4.8.1" />
-      <item index="4" class="java.lang.String" itemvalue="Python.4.9" />
+      <item index="0" class="java.lang.String" itemvalue="Python.4.7" />
+      <item index="1" class="java.lang.String" itemvalue="Python.4.8" />
+      <item index="2" class="java.lang.String" itemvalue="Python.4.8.1" />
+      <item index="3" class="java.lang.String" itemvalue="Python.4.9" />
+      <item index="4" class="java.lang.String" itemvalue="Python.4.10" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.4.9" />
-        <item index="1" class="java.lang.String" itemvalue="Python.4.8" />
-        <item index="2" class="java.lang.String" itemvalue="Python.4.8.1" />
-        <item index="3" class="java.lang.String" itemvalue="Python.4.7" />
-        <item index="4" class="java.lang.String" itemvalue="Python.4.4" />
+        <item index="0" class="java.lang.String" itemvalue="Python.4.10" />
+        <item index="1" class="java.lang.String" itemvalue="Python.4.9" />
+        <item index="2" class="java.lang.String" itemvalue="Python.4.8" />
+        <item index="3" class="java.lang.String" itemvalue="Python.4.8.1" />
+        <item index="4" class="java.lang.String" itemvalue="Python.4.7" />
       </list>
     </recent_temporary>
   </component>
@@ -288,12 +296,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22003035" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3061564" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33777037" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33777037" sideWeight="0.50455236" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33777037" sideWeight="0.49544764" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296" sideWeight="0.49707174" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23237179" sideWeight="0.49707174" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962063" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -393,6 +400,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4 - Exercício - Aula 4 (Slide 19, 21 e 23)/Slide 23/4.10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72">
+          <caret line="2" column="60" lean-forward="false" selection-start-line="2" selection-start-column="60" selection-end-line="2" selection-end-column="60" />
           <folding />
         </state>
       </provider>
