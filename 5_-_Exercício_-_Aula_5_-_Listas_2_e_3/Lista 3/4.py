@@ -10,14 +10,16 @@ if setor == 'platéia':
 elif setor == 'cadeira':
     if ingresso == 'meia':
         valor = 200.0
-        taxa = (valor+(valor*0.05))*0.5
+        desconto = 200*0.05 + 200
+        taxa = desconto * 0.5 + 5
     else:
         valor = 200.0
         taxa = valor+(valor*0.05)
 elif setor == 'arquibancada':
     if ingresso == 'meia':
         valor = 100.0
-        taxa = (valor+(valor*0.05))*0.5
+        desconto = 100*0.05 + 100 + 5
+        taxa = desconto * 0.5
     else:
         valor = 100.0
         taxa = valor+(valor*0.05)
