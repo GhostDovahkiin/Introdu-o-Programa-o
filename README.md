@@ -1,2 +1,4 @@
-# Introducao a Programacao
-S.I - Primeiro Período
+﻿# Introducao a Programacao
+                    S.I - UFPB - Primeiro Período 
+
+       ----- Códigos dos exercícios -----
